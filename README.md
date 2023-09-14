@@ -1,8 +1,12 @@
-SEJAM BEM VINDOS
+                                                   SEJAM BEM VINDOS
 <br>
 
 
 
 <br>
-😵‍💫 **perdido** , porem me encontrando
+😵‍💫 Perdido , porem me encontrando
 🧑‍💻
+<br>
+<h3>
+  Aprendendo  as seguintes linguagens
+</h3>
