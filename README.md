@@ -1,9 +1,11 @@
-### Olá, eu sou Fabricio.          
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0324.gif" border="0" alt="animated-line-image-0324" /></a>
+### Olá, eu sou Fabricio.        
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0324.gif" border="0" alt="animated-line-image-0324" /></a>
 <br>
 -🧑‍💻 <b>Estudante</b> em tecnico de informática para internet pelo Instituto Federal Sul de Minas
 <br>
 -🚨<b>Buscando</b> desenvolver minhas habilidades de programação
-<hr>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0324.gif" border="0" alt="animated-line-image-0324" /></a>
 <br>
 <B>APRENDENDO SOBRE:</B>
 <BR>
