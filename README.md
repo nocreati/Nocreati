@@ -25,7 +25,7 @@
 </div>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0538.gif" border="0" alt="animated-line-image-0538" /></a>
 <br>
-<br>
+<hr>
 <p align="center"
 <a href="https://www.animatedimages.org/cat-computer-56.htm"><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0352.gif" border="0" alt="animated-computer-image-0352" /></a>
 </p>
