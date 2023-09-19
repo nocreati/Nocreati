@@ -2,9 +2,13 @@
 <a href="https://www.animatedimages.org/cat-super-mario-1578.htm"><img src="https://www.animatedimages.org/data/media/1578/animated-super-mario-image-0073.gif" border="0" alt="animated-super-mario-image-0073" /></a>
 <br>
 <hr>
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif" border="0" alt="animated-line-image-0387" /></a>
+ 
+ ### 🔥Olá, eu sou Fabricio.🔥
+  <p align="center"
 
-### Olá, eu sou Fabricio.        
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif" border="0" alt="animated-line-image-0387" /></a>
+<p align="center"
+  
 <hr>
 <br>
 -🧑‍💻 <b>ESTUDANTE:</b> em tecnico de informática para internet pelo Instituto Federal Sul de Minas
@@ -14,13 +18,17 @@
 <br>
 <hr>
 <br>
-<B>APRENDENDO SOBRE:</B>
+<p align="center"
+
+  <B>APRENDENDO SOBRE:</B>
 <BR>
+<p align="center"
 <div display="inline">
 <img width="50" heigth="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img width="50" heigth="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width="50" heigth="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
+<p align="center"
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0538.gif" border="0" alt="animated-line-image-0538" /></a>
 <br>
 
