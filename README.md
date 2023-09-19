@@ -1,6 +1,8 @@
 <p align="center"
-<a href="https://www.animatedimages.org/cat-super-mario-1578.htm"><img src="https://www.animatedimages.org/data/media/1578/animated-super-mario-image-0073.gif" border="0" alt="animated-super-mario-image-0073" /></a>
-<br>
+
+ ![Mario Gif - IceGif](https://www.icegif.com/wp-content/uploads/mario-icegif-10.gif)
+ 
+ <br>
 <hr>
  
  ### 🔥Olá, eu sou Fabricio.🔥
