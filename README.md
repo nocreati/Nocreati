@@ -13,7 +13,8 @@
   
 <hr>
 <br>
--🧑‍💻 <b>ESTUDANTE:</b> em tecnico de informática para internet pelo Instituto Federal Sul de Minas
+
+-🧑‍💻 <b>ESTUDANTE:</b> em tecnico de informática para internet pelo [Instituto Federal Sul de Minas](https://portal.poa.ifsuldeminas.edu.br/)
 <br>
 <br>
 -🚨<b>BUSCANDO:</b> desenvolver minhas habilidades de programação
